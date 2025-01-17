@@ -34,6 +34,6 @@ let myObj = {
 
 const myFunction = function(){
     console.log("Hello World");
-} //typeof = function
+} //typeof = function 
 
 console.log(typeof heroes)
